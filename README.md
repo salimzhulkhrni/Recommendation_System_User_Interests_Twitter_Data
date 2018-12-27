@@ -1,4 +1,4 @@
-# Recommendation_System_User_Interests_Twitter_Data
+# Recommendation System - Categorize User Interests From Twitter_Data
 Strategic Marketing Based on User's Interests From Twitter Data
 Steps to run the notebook file:
 -----------------------------------
@@ -11,7 +11,9 @@ Step 2)
 Write the below in a separate notebook in a separate cell
 import nltk
 nltk.download()
+
 a) By doing this, a pop-up box will be opened. In that pop-up box, go to models menu and search for the identifier “vader_lexicon” , “punkt” , “averaged_perceptron” and click on download.
+
 b) In the corpora section, search for the identifier “stopwords”,"Averaged_perceptron and Punkt" and click on download.
 
 Step 3) 
