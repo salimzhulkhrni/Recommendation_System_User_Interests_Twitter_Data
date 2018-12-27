@@ -54,4 +54,4 @@ numbers of users against each category.
 Output:
 ------------
 1) Pie-chart of each user depicting their interests can be visualised.
-2) Bar-chart comparing the users against different interest categories can be visualised.
+2) Bar-chart comparing the percentage of users against different interest categories can be visualised.
