@@ -22,7 +22,7 @@ nltk.download()
 
 a) By doing this, a pop-up box will be opened. In that pop-up box, go to models menu and search for the identifier “vader_lexicon” , “punkt” , “averaged_perceptron” and click on download.
 
-b) In the corpora section, search for the identifier “stopwords”,"Averaged_perceptron and Punkt" and click on download.
+b) In the corpora section, search for the identifier “stopwords” and click on download.
 
 Step 3) 
 --------
