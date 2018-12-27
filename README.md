@@ -43,18 +43,13 @@ Ensure that the path is populated in ‘path of the user file’ field.
 
 Step 7) 
 ---------
-Click on execute button and observe the pie charts generated in the notebook file and bar
+Click on 'Execute' button from the UI and observe the pie charts generated in the notebook file and bar
 chart being generated in a separate tab.
 
 Step 8) 
 --------
 Verify that the file named ‘Users_Catergory_List.csv’ gets generated that contains the
 numbers of users against each category.
-
-Step 9)
---------
-
-Click on 'Execute' button from the UI.
 
 Output:
 ------------
