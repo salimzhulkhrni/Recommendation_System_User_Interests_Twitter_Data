@@ -1,4 +1,4 @@
-# Recommendation System - Categorize User Interests From Twitter_Data
+# Recommendation System - Categorize User Interests From Twitter Data
 Strategic Marketing Based on User's Interests From Twitter Data
 
 About the Project:
